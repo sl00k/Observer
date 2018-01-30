@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Observer</string>
+
+    <string-array name="category_array">
+        <item>Lebensmittel</item>
+        <item>Freizeit</item>
+        <item>Take Away</item>
+        <item>Party</item>
+        <item>DiesDas</item>
+    </string-array>
+
+</resources>
